@@ -72,3 +72,11 @@ libft/
 ├── obj/
 ├── Makefile
 └── README.md
+
+✅ Status
+
+ Part 1: Libc functions
+
+ Part 2: Additional functions
+
+ Bonus: Linked list functions
